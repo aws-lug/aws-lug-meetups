@@ -2,8 +2,8 @@
 Repo for all things related to the AWS User Group Liverpool
 
 ## Ways of Working
-We are intending the repo and broader GitHub tooling to provide a transparent way of communicating the organisers intentions and the commmunities goals. This is intended as a start to allow the group as a whole to help direct the way the meetings are run. 
-This is a first attempt at outlining our tooling and approach. Feel free to raise a PR and suggest any chnges you think would help.
+We are intending the repo and broader GitHub tooling to provide a transparent way of communicating the organisers intentions and the communities goals. This is intended as a start to allow the group as a whole to help direct the way the meetings are run. 
+This is a first attempt at outlining our tooling and approach. Feel free to raise a PR and suggest any changes you think would help.
 
 ### Issues
 
