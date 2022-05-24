@@ -1,0 +1,29 @@
+events:
+  - title: REST is dead! GraphQL joy with AWS AppSync
+    date: 2022-05-31
+    venue: DoES
+    agenda:
+      - item: AWS Round-up
+        presenter: Simon Robinson
+      - item: AWS AppSync
+        presenter: Paul Gledhill
+      - item: CDK Day Review
+      - item: Show and Tell
+    published:
+      - meet-up: true
+        link: https://www.meetup.com/AWS-User-Group-Liverpool/events/286102860/
+      - discord: true
+        link: https://discord.gg/vRA2xMWh?event=978421554348191744
+  - title: Placeholder
+    date: 2022-07-21
+  - title: Placeholder
+    date: 2022-09-13
+  - title: Placeholder
+    date: 2022-11-03
+venues:
+  - name: DoES
+    address: 68-76, Kempston St, Liverpool L3 8HL
+    maps-link: https://goo.gl/maps/cbqmp2fQgNWVYCw27
+  - name: Pen Factory
+    address: 13 Hope St, Liverpool L1 9BQ
+    maps-link: https://goo.gl/maps/rW9z11PcmwgeCKAE8
