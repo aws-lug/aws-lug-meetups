@@ -7,8 +7,19 @@ events:
         presenter: Simon Robinson
       - item: AWS AppSync
         presenter: Paul Gledhill
+        description: |
+          AWS AppSync - why GraphQL is brilliant
+
+          GraphQL is becoming increasingly popular as a way of exposing data via APIs; it helps reduce friction between the API consumer and provider. And is particularly hot when fronting a web or mobile UI. In this session I will take you through;
+
+          - Basics of GraphQL - what is it?
+          - How does it compare? To REST, OData, grpc
+          - How to design a GraphQL schema
+          - Using AWS AppSync to make life easy
       - item: CDK Day Review
       - item: Show and Tell
+    graphics:
+      - main: https://aws-lug-assets.s3.eu-west-2.amazonaws.com/graphql.png
     published:
       - meet-up: true
         link: https://www.meetup.com/AWS-User-Group-Liverpool/events/286102860/
