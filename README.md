@@ -16,3 +16,6 @@ Please use Github Discussions for any topics for broader community engagement. F
 ### Projects
 
 We have setup a project in a Kanban style to openly show progress on some the tasks the organisers are working on. 
+
+### How to find us
+[AWS Liverpool User Group](https://www.meetup.com/aws-user-group-liverpool/) 
