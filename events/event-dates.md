@@ -11,7 +11,7 @@
 
 - Thursday 12th January
 - Thursday 16th March
-- Saturday 22dn April
+- Saturday 22nd April
 - Thursday 1st June
 - Thursday 13th July
  
